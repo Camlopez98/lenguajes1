@@ -1,4 +1,11 @@
-clientes = {}
+clientes = {
+    "cedula":1233691138,
+    "nombre": "Camilo",
+    "apellido": "lopez",
+    "edad": 30,
+    "email": "camilo.lopez@example.com",
+}
+
 
 def menu():
     print("""

@@ -1,5 +1,6 @@
 estudiantes = {}
 
+
 def menu():
     while True:
         print("\nMENU")
